@@ -16,5 +16,5 @@ Then open <http://localhost:8000>.
 
 Push this folder to a public repository, then enable **Settings → Pages → Deploy from a branch**, selecting `main` and `/ (root)`. No build step is required.
 
-The community link points to the official [Bootstrapped Discord](https://discord.gg/zu5MWrNBU).
-Add the official Steam store URL to `index.html` when the store page is live.
+The community link points to the official [Bootstrapped Discord](https://discord.gg/6Ms8WwGUDb).
+The wishlist buttons point to the permanent [Bootstrapped Steam page](https://store.steampowered.com/app/4964670/Bootstrapped/).
